@@ -1,4 +1,4 @@
-Sales Data Analysis
+**Sales Data Analysis**
 This project analyzes a dataset of sales transactions to extract meaningful insights and trends. The analysis includes key performance indicators (KPIs), visualizations, and statistical summaries to support decision-making.
 
 Table of Contents
